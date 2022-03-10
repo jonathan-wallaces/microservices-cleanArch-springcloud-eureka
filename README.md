@@ -1,6 +1,8 @@
-# Serasa Consumidor - Teste para analista desenvolvedor
+# Microserviços - Api Ordem e Api Usuários
 
-Olá, para a execução do teste utilizei:
+Pequeno projeto de microserviços utilizando spring cloud e suas funcionalidades. O projeto foi desenvolvido utilizando arquitetura hexagonal. Abaixo listo as tecnologias usadas, o motivo da utilização, o caminho dos endpoint, o que será consumido e o retorno esperado.
+
+Para a execução do projeto utilizei:
 
 - Spring Cloud - Responsável por criar o microserviço e realizar o seu processamento e persistência.
 - Spring Netflix Eureka - Service Discovery responsável por unificar o registros dos microserviços.
